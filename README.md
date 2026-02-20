@@ -3,7 +3,7 @@
 <img src="imagen_presentacion.png" alt="Presentación" width="205" align="left" style="margin-right:20px; border-radius:5px;">  
 <p style="text-align: justify;">
 
-Este proyecto consiste en el desarrollo de un comparador de dos números en consola utilizando Python. El programa solicita al usuario el ingreso de dos valores numéricos y evalúa la relación entre ellos para determinar cuál es mayor o si ambos son iguales. A través de este proceso, el sistema muestra mensajes claros que permiten al usuario comprender fácilmente el resultado de la comparación realizada. 
+Este proyecto consiste en el desarrollo de un comparador de dos números en consola utilizando Python. El programa solicita al usuario el ingreso de dos valores numéricos y evalúa la relación entre ellos para determinar cuál es mayor o si ambos son iguales. 
 
 El sistema aplica operadores de comparación y estructuras condicionales para analizar los valores ingresados, mostrando un mensaje claro y directo según el resultado obtenido. Esto permite al usuario comprender fácilmente la lógica de comparación aplicada.
 
